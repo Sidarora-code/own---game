@@ -1,0 +1,18 @@
+Characters (PC and NPC)-PC = my aeroplane NPC=aeroplanes of the computer.
+Story- Defeat the enemy planes to win the war for your country.
+Goals- Defeat all the enemy planes before they kill you. 
+Rules- You can shoot the enemy planes and move your plane to dodge the enemies bullets. 
+Balance- You are alone while there are many enemies so you have some special abilities.
+Adaptivity- You will get another chance if you fail in the first try.
+Chance vs Skill- Chance=You can unlock special abilities at some times. Skill=How nicely you can target and dodge.
+Feedback- You can always see how many planes you have destroyed.
+
+1. We first drew all the objects in the game.
+2. We made the player paddle move with the mouse.
+3. We learned to control the ball.
+4. We made the ball bounce around the edges and the paddles.
+5. We added AI to the computer paddle to follow the ball.
+
+https://editor.p5js.org/Abhijeet/sketches/86S5orp6X
+
+https://pro-whitehat.slack.com/
